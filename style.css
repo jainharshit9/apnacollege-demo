@@ -6,17 +6,17 @@
   
   body {
     font-family: "Poppins", sans-serif;
-    background-color: #ebf2ff;
+    background-color: #ebf2ef;
   }
   
   .card-img-top {
-    padding: 15px;
-    height: 300px;
+    padding: 1px;
+    height: 3px;
     width: auto;
   }
   
   .place__holder__image {
-    width: 100%;
+    width: 85%;
   }
   
   
